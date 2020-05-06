@@ -1,0 +1,7 @@
+#surefire
+#Thu Nov 28 02:16:35 CST 2019
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\Jairo\\Documents\\NetBeansProjects\\selenium
+localRepository=C\:\\Users\\Jairo\\.m2\\repository
+basedir=C\:\\Users\\Jairo\\Documents\\NetBeansProjects\\selenium
+test=ru.parsentev.SeleniumStandaloneServerTest
